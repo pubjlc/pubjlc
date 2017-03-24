@@ -1,0 +1,2 @@
+V2	
+This is not good for two reasons. First, if the C: volume is NTFS with the 8.3 filename option turned off, there is no C:\Progra~1 at all. Second, there may be multiple C:\Progra* directories, so the ~1 suffix is not necessarily the valid one. – kkm Oct 24 '16 at 7:23
